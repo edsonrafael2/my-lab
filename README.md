@@ -1,1 +1,1 @@
-For tests, learn , studing and more. 
+For testing, learning , studing and more. 
